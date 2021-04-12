@@ -14,7 +14,7 @@
     },
     head(){
       return {
-        title: "Treemagazin: Herramientas financieras para los mejores profesionales y emprendedores",
+        title: "Treemagazin • Herramientas financieras para los mejores profesionales y emprendedores",
         meta: [
           {
             hid: 'description',

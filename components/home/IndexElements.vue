@@ -121,3 +121,10 @@
     </footer>
   </div>
 </template>
+
+<script>
+    export default {
+        name:"IndexElements",
+       
+    }
+</script>
